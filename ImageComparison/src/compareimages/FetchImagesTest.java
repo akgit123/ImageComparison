@@ -19,8 +19,8 @@ public class FetchImagesTest extends TestCase {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
-		int ExpectedArrayValues[] = {109, 134};
-		
+		int ExpectedArrayValues[] = {110, 134};
+		// 109, 134
 		assertArrayEquals(ExpectedArrayValues, xy);
 	}
 
